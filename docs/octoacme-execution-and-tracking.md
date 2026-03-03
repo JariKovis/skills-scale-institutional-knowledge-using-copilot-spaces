@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA embedded in sprint — test cases updated each sprint
+- [ ] UX/UI design reviews completed before feature merge
+- [ ] DevOps/SRE pipeline health confirmed; staging environment available
+- [ ] Build → QA and QA → Release handoffs tracked — see [octoacme-handoffs-and-ownership-checklist.md](octoacme-handoffs-and-ownership-checklist.md)

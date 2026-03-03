@@ -41,3 +41,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX/UI wireframes approved and design specs shared with Developers
+- [ ] DevOps/SRE environment and pipeline requirements identified
+- [ ] Business Analyst requirements sign-off obtained
+- [ ] Handoff ownership reviewed — see [octoacme-handoffs-and-ownership-checklist.md](octoacme-handoffs-and-ownership-checklist.md)
