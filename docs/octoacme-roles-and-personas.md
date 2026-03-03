@@ -1,6 +1,6 @@
 # OctoAcme Personas
 
-This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
+This document defines typical roles and responsibilities used in OctoAcme project docs and exercises. For handoff ownership across lifecycle stages, see [octoacme-handoffs-and-ownership-checklist.md](octoacme-handoffs-and-ownership-checklist.md).
 
 ---
 
