@@ -41,3 +41,6 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Decision Log
+Key go/no-go and scoping decisions made during initiation should be recorded in the project Decision Log. Use the template in [octoacme-decision-log-template.md](octoacme-decision-log-template.md) to capture context, alternatives considered, and the rationale for each decision.

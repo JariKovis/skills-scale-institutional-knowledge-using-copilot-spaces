@@ -33,6 +33,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
 
+## RACI / Ownership
+For clarity on who is responsible, accountable, consulted, and informed for key execution activities, maintain a RACI matrix for your project. Use the [RACI Matrix template](octoacme-raci-matrix-template.md) as a starting point and update it at the start of each lifecycle phase.
+
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
