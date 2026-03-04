@@ -40,3 +40,7 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Templates
+- **RACI Matrix**: Use [octoacme-raci-matrix-template.md](octoacme-raci-matrix-template.md) to map ownership of risk activities and stakeholder communications across roles.
+- **Decision Log**: Record key risk-response decisions (e.g., accepted risks, scope changes driven by risk) using [octoacme-decision-log-template.md](octoacme-decision-log-template.md).

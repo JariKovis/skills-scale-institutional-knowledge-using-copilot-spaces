@@ -35,6 +35,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
+## Decision Log
+Significant planning decisions (e.g., scope trade-offs, architecture choices, release strategy) should be captured using the [Decision Log template](octoacme-decision-log-template.md). Link decision records from the relevant backlog items or risk register entries.
+
+## RACI / Ownership Matrix
+For projects with multiple contributing roles, populate a RACI matrix during planning to clarify ownership across lifecycle phases. Use the [RACI Matrix template](octoacme-raci-matrix-template.md) as a starting point.
+
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
